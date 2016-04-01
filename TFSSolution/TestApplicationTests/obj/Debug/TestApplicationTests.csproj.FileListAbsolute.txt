@@ -1,0 +1,8 @@
+D:\TFSWorkSpace\TFSSolution\TestApplicationTests\bin\Debug\TestApplicationTests.dll
+D:\TFSWorkSpace\TFSSolution\TestApplicationTests\bin\Debug\TestApplicationTests.pdb
+D:\TFSWorkSpace\TFSSolution\TestApplicationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TFSWorkSpace\TFSSolution\TestApplicationTests\bin\Debug\TestApplication.exe
+D:\TFSWorkSpace\TFSSolution\TestApplicationTests\bin\Debug\TestApplication.pdb
+D:\TFSWorkSpace\TFSSolution\TestApplicationTests\obj\Debug\TestApplicationTests.csprojResolveAssemblyReference.cache
+D:\TFSWorkSpace\TFSSolution\TestApplicationTests\obj\Debug\TestApplicationTests.dll
+D:\TFSWorkSpace\TFSSolution\TestApplicationTests\obj\Debug\TestApplicationTests.pdb

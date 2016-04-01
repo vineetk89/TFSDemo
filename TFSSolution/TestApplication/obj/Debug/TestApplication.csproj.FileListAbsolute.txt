@@ -1,0 +1,6 @@
+D:\TFSWorkSpace\TFSSolution\TestApplication\bin\Debug\TestApplication.exe.config
+D:\TFSWorkSpace\TFSSolution\TestApplication\bin\Debug\TestApplication.exe
+D:\TFSWorkSpace\TFSSolution\TestApplication\bin\Debug\TestApplication.pdb
+D:\TFSWorkSpace\TFSSolution\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+D:\TFSWorkSpace\TFSSolution\TestApplication\obj\Debug\TestApplication.exe
+D:\TFSWorkSpace\TFSSolution\TestApplication\obj\Debug\TestApplication.pdb
